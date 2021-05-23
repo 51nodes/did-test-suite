@@ -28,7 +28,7 @@
         "representationSpecificEntries": {
         }
       },
-      "representation1": "{\"id\":\"did:schema:public-ipfs:xsd:QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5\",\"service\":[{\"id\":\"did:schema:public-ipfs:xsd:QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5#get\",\"type\":\"GetSchemaService\",\"serviceEndpoint\":\"https://ipfs.infura.io/ipfs/QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5\"}]}",
+      "representation": "{\"id\":\"did:schema:public-ipfs:xsd:QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5\",\"service\":[{\"id\":\"did:schema:public-ipfs:xsd:QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5#get\",\"type\":\"GetSchemaService\",\"serviceEndpoint\":\"https://ipfs.infura.io/ipfs/QmUQAxKQ5sbWWrcBZzwkThktfUGZvuPQyTrqMzb3mZnLE5\"}]}",
       "didDocumentMetadata": {},
       "didResolutionMetadata": {
         "contentType": "application/did+json"
